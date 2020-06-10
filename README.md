@@ -27,7 +27,7 @@ You will need institutional or organizational access to Scopus and/or Web of Sci
 
 ## Author
 
-* **Carrie Price** - *Initial work* - [carrieprice78](https://github.com/carrieprice78/)
+* **Carrie Price** - [carrieprice78](https://github.com/carrieprice78/)
 
 
 
