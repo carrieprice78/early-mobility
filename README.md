@@ -17,13 +17,8 @@ You will need institutional or organizational access to Scopus and/or Web of Sci
 * [Tableau Public](https://public.tableau.com/s/) - The impact visualization platform used
 * [LibGuides](https://www.springshare.com/libguides/) - Used to post visualizations and hold further documentation
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Author
 
