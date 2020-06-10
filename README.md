@@ -27,7 +27,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Author
 
-* **Carrie Price** - *Initial work* - [PurpleBooth](https://github.com/carrieprice78/)
+* **Carrie Price** - *Initial work* - [carrieprice78](https://github.com/carrieprice78/)
 
 
 
