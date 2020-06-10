@@ -18,7 +18,9 @@ You will need institutional or organizational access to Scopus and/or Web of Sci
 * [LibGuides](https://www.springshare.com/libguides/) - Used to post visualizations and hold further documentation
 
 
+## Shared On
 
+* [Welch Medical Library's Early Mobility Research Guide] (https://browse.welch.jhmi.edu/early-mobility/trends/data-visualization) - A platform for librarian-curated content
 
 ## Author
 
