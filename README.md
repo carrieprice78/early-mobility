@@ -16,6 +16,9 @@ You will need institutional or organizational access to Scopus and/or Web of Sci
 * [VOSviewer](https://www.vosviewer.com/) - The network visualization platform used
 * [Tableau Public](https://public.tableau.com/s/) - The impact visualization platform used
 * [LibGuides](https://www.springshare.com/libguides/) - Used to post visualizations and hold further documentation
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Biomedical literature database from the U.S. National Library of Medicine
+* [Scopus](https://www.scopus.com/) - Subscription literature database from Elsevier
+* [Web of Science](https://apps.webofknowledge.com/) - Subscription literature database from Clarivate Analytics
 
 
 ## Shared On
