@@ -1,6 +1,6 @@
 # Early Mobility Publication Trends
 
-A documentation of highly-specific literature searches used to examine bibliographic literature trends in the area of early mobility and critical illness.
+A documentation of highly-specific literature searches and data visualizations used to examine bibliographic literature trends in the area of early mobility and critical illness.
 
 ## Getting Started
 
