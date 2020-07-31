@@ -33,6 +33,7 @@ You will need institutional or organizational access to Scopus and/or Web of Sci
 
 ## License
 
+Creative Commons License:This work is licensed under a [Creative Commons Attribution 2.0 Generic License](https://creativecommons.org/licenses/by/2.0/).
 
 ## Acknowledgments
 
